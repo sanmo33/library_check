@@ -20,6 +20,6 @@ feedparserはterminalで [pip3 install feedparser]と打ち込めば入手でき
 
 「python3 インストール」や「feedparser インストール」などと検索すればわかりやすいインストール方法が出てきますのでそちらを参考にしてください。
 
-crontabやAutomatorなどを利用すると毎日決まった時間に通知を受け取ることも可能です。
+crontabやAutomatorなどを併用すると毎日決まった時間に通知を受け取ることも可能です。
 
 もしなにかございましたらTwitter @mosanul までご連絡ください。よろしくおねがいします。
