@@ -1,5 +1,4 @@
 import urllib.request
-from bs4 import BeautifulSoup
 import feedparser
 import os
 
@@ -19,5 +18,3 @@ with open('check.txt', mode='r')as f:
 
 if flag:
     os.system("osascript -e 'display notification \"New Books Arrive!\"'")
-else:
-    pass
