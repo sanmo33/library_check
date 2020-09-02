@@ -18,3 +18,5 @@ with open('check.txt', mode='r')as f:
 
 if flag:
     os.system("osascript -e 'display notification \"New Books Arrive!\"'")
+    os.system('osascript /Users/yu/Documents/icu_library_check/icu_lib_url_open')
+    
